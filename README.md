@@ -11,8 +11,10 @@ At this point only a litlle of C++, C# , SQL ,Java, JavaScript, React, Python is
 
 using namespace std;
 
-void main(){
+void main()
+{
   cout<<"Hello World Adro h3rE"<<endl;
   
   _getch();
+  
 }
